@@ -18,5 +18,12 @@ public class TestCase2 {
 
 
 	}
+	
+	public void getString() {
+		System.out.println("TestCase2");
+	}
 
+	public void getString1() {
+		System.out.println("TestCase2 added");
+	}
 }

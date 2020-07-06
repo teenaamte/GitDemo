@@ -22,5 +22,9 @@ public class TestCase3 {
 
 
 	}
+	
+	public void getString() {
+		System.out.println("TestCase3");
+	}
 
 }
