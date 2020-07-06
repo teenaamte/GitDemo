@@ -18,5 +18,9 @@ public class TestCase2 {
 
 
 	}
+	
+	public void getString() {
+		System.out.println("TestCase2");
+	}
 
 }
