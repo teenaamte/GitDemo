@@ -8,6 +8,7 @@ public class Rediff {
 		// TODO Auto-generated method stub
 
 		System.out.println("You are in Rediiff.java");
+		System.out.println("You are in Rediff");
 		System.setProperty("webdriver.chrome.driver", "C:\\ChromeDriver\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		
